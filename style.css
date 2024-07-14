@@ -155,7 +155,7 @@ button{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-shadow: 0 0px 16px 0 rgba(0,0,0,0), 0 0px 20px 0 rgba(0,0,0,0.4);
 }
-span{
+span.one{
     background-color: rgb(255, 0, 200, 0.2);
     height: 100%;
     width: 0;
